@@ -1,16 +1,16 @@
 ---
 template: DefaultPage
-slug: test slug
-title: This is a test info page
-featuredImage: >-
-  https://ucarecdn.com/0a485165-65c4-42ee-bf35-b93fbaf0fd2e/-/preview/-/rotate/270/
+slug: testimonials
+title: What others say about us
+featuredImage: https://ucarecdn.com/3c7a1f4a-bc5c-4636-9c09-1dcb10bb90af/-/preview/-/enhance/93/
 meta:
-  description: test meta description
-  title: test meta title
+  description: What others say about us
+  title: Testimonials
 ---
-
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language.
-
-Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website. This paragraph has been copied from a program that automatically generates paragraphs like this.
-
-**It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.**
+> **Buyer interest was high and my reserve price was significantly exceeded as a result of Seascape Project’s attention to detail in preparing all aspects of my home for sale - Sharon, June 2021**
+>
+> **Seascape Projects transformed our business premises by building new office space all while working around our staff, schedules and business needs. The guys were friendly, professional and on schedule - Matt & Tammy, May 2021**
+>
+> **The guys helped us maximise our sale price by preparing our property in Rye before sale. All work was completed to a high standard of quality which included retaining walls, fencing, gardens and painting - Jim, Feb 2021**
+>
+> **Our property sold just 1 week after listing thanks to help by Seascape Projects.  - Karen, Dec 2020**
