@@ -8,9 +8,9 @@ address: 21 Lansdowne St, Blairgowrie VIC 3942
 phone: 0417 333 148
 email: pl@seascapeprojects.com.au
 locations:
-  - lat: ""
-    lng: ""
-    mapLink: https://goo.gl/maps/jWdAgoRZq1gRYoxm9
+  - mapLink: ""
+    lat: "-38.3706204"
+    lng: "144.7522939"
 meta:
   description: Contact Seascape Projects
   title: Contact Page
