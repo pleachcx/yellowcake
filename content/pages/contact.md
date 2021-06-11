@@ -1,18 +1,18 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Page
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
+title: Contact Us
+featuredImage: https://ucarecdn.com/cebf5349-1e64-405e-ba5f-9fbb0ba1f94f/
+subtitle: Free consultation just a few clicks away
+address: 21 Lansdowne St, Blairgowrie VIC 3942
+phone: 0417 333 148
+email: pl@seascapeprojects.com.au
 locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
-    mapLink: ''
+  - lat: ""
+    lng: ""
+    mapLink: https://goo.gl/maps/jWdAgoRZq1gRYoxm9
 meta:
-  description: This is a meta description.
+  description: Contact Seascape Projects
   title: Contact Page
 ---
 
