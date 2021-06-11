@@ -2,15 +2,13 @@
 template: HomePage
 slug: ""
 title: Seascape Projects
-featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+featuredImage: https://ucarecdn.com/a6404829-1215-44b3-9d8e-870aa8690292/-/preview/-/enhance/90/
 subtitle: Creating appealing homes to sell or enjoy
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Property sale preparation and renovation services in Mornington Peninsula
+  title: Creating appealing homes to sell or enjoy
 ---
 *“Buyer interest was high and my reserve price was significantly exceeded as a result of Seascape Project’s attention to detail in preparing all aspects of my home for sale.”* - Sharon, June 2021   view more
-
-
 
 # Why Seascape Projects
 
@@ -22,15 +20,13 @@ We offer personable service and aim to exceed your expectations...MORE
 
 ## Creating appealing homes to sell or enjoy
 
-Based on the Mornington Peninsula, Seascape Projects can help to increase the appeal and sale price of your home. Offering services for both property preparation and renovation services to homeowners.
+Based on the Mornington Peninsula, Seascape Projects can help to increase the appeal and sale price of your home. Offering services for both property preparation and renovation improvements.
 
 ## Preparing your home for sale
 
 Presentation pays when selling your home. We ensure that your home is looking at its absolute best inside and out to maximise your sale return.
 
 From deep cleaning, painting, and flooring to gardening and landscaping; from lighting and general repairs to building new enhancements or configurations, and more
-
-
 
 ## Get started
 
