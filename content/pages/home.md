@@ -8,7 +8,7 @@ meta:
   description: Property sale preparation and renovation services in Mornington Peninsula
   title: Creating appealing homes to sell or enjoy
 ---
-*“Buyer interest was high and my reserve price was significantly exceeded as a result of Seascape Project’s attention to detail in preparing all aspects of my home for sale.”* - Sharon, June 2021   view more
+> *“Buyer interest was high and my reserve price was significantly exceeded as a result of Seascape Project’s attention to detail in preparing all aspects of my home for sale.”* - Sharon, June 2021   view more
 
 # Why Seascape Projects
 
