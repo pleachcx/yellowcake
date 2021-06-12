@@ -5,7 +5,7 @@ title: Seascape Projects
 featuredImage: https://ucarecdn.com/a6404829-1215-44b3-9d8e-870aa8690292/-/preview/-/enhance/90/
 subtitle: Creating appealing homes to sell or enjoy
 accordion:
-  - title: Creating appealing homes to sell or enjoy
+  - title: Quality and Craftmanship for Your Home Project
     content: Based on the Mornington Peninsula, Seascape Projects can help to
       increase the appeal and sale price of your home. Offering services for
       both property preparation and renovation improvements.
@@ -18,7 +18,7 @@ accordion:
       From deep cleaning, painting, and flooring to gardening and landscaping; from lighting and general repairs to building new enhancements or configurations, and more
 meta:
   description: Property sale preparation and renovation services in Mornington Peninsula
-  title: Creating appealing homes to sell or enjoy
+  title: Quality and Craftmanship for Your Home Project
 ---
 > *“Buyer interest was high and my reserve price was significantly exceeded as a result of Seascape Project’s attention to detail in preparing all aspects of my home for sale.”* - Sharon, June 2021   view more
 
