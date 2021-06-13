@@ -3,16 +3,16 @@ import './Footer.css'
 
 export default () => (
   <div>
-    <h2 className="taCenter">
+    <h3 className="taCenter">
       Follow us{' '}
-      <a href="https://instagram.com/thrivegoldcoast/">@thrivegoldcoast</a>
-    </h2>
+      <a href="https://instagram.com/seascapeprojects/">@seascapeprojects</a>
+    </h3>
     <br />
     <footer className="footer">
       <div className="container taCenter">
         <span>
           © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
-          <a href="https://thriveweb.com.au/">Thrive</a>.
+          <a href="https://seascapeprojects.com.au">Seascape Projects</a>.
         </span>
       </div>
     </footer>
