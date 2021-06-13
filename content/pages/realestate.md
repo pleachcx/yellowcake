@@ -27,7 +27,7 @@ section1: >-
 
 There are often a myriad of preparation jobs inside and outside of the home that need to be professionally completed within a short time frame to generate buyer interest in your home and increase the value of your home.  
 
-
+section2: >-
 accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
