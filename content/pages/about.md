@@ -1,18 +1,40 @@
 ---
 template: ComponentsPage
 slug: About
-title: About
+title: About Us
 featuredImage: https://ucarecdn.com/26b86164-97d3-4c3c-8321-543047dcbe9d/-/preview/-/enhance/63/
 subtitle: Seascape Projects on the Mornington Peninsula
 section1: >-
   ## About Seascape Projects
 
-  All about Seascape Projects etc blah blah
-  
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+
+  <!--StartFragment-->
 
 
-  [Dictumst a ultrices mi](<>) a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
+  We specialise in creating appealing homes to sell or enjoy.
+
+
+  With 20 years experience in the real estate and building industries, we can help you increase the value of your home.
+
+
+  Seascape Projects is the company to call if you:
+
+
+  \- are selling your home and want to increase its appeal and sale price. We can conduct all of your painting, flooring, repairs, gardening and other trade work to maximise the appeal of your home for sale.
+
+
+  \- want to renovate any part of your home and add value. We can turn your renovation plans into a reality on time and on budget. We pride ourselves on our quality renovations.
+
+
+  Patrick Leach and Caue XX, owners of Seascape Projects, moved to the Mornington Peninsula with the aim of offering a high quality and personable service from start to finish on every job.
+
+
+  Contact us today for a free no obligation consultation.
+
+
+
+
+  <!--EndFragment-->
 section2: >-
   ## You can use videos, images and text.
 
