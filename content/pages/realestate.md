@@ -86,6 +86,9 @@ gallery:
   - alt: Internal Prepared
     image: https://ucarecdn.com/705ef785-02d9-4948-b7c8-d36e1f913543/
     title: Internal Preparation
+  - image: https://ucarecdn.com/88107c95-4a1c-4912-9e24-e107f7c4435f/
+    alt: Galley Kitchen
+    title: Galley Kitchen
 meta:
   description: Preparing Your Home for Sale
   title: Real Estate
