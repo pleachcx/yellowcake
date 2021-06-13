@@ -77,15 +77,15 @@ accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
 gallery:
-  - alt: yellow rope image
-    image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Yellow Rope
-  - alt: umbrellas
-    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Yellow Ice Cream
+  - alt: mud room image
+    image: https://ucarecdn.com/49867632-7c13-4606-a6bc-c4a003752eea/-/preview/-/enhance/50/
+    title: Mud Room
+  - alt: planter box image
+    image: https://ucarecdn.com/465f759e-792d-46a8-8b21-3ff3e6b39eeb/-/preview/-/enhance/50/
+    title: Planter Box
+  - alt: Internal Prepared
+    image: https://ucarecdn.com/705ef785-02d9-4948-b7c8-d36e1f913543/
+    title: Internal Preparation
 meta:
   description: Preparing Your Home for Sale
   title: Real Estate
