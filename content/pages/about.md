@@ -17,13 +17,13 @@ section1: >-
   With 20 years experience in the real estate and building industries, we can help you increase the value of your home.
 
 
-  Seascape Projects is the company to call if you:
+  Seascape Projects is the company to call if you are selling your home or planning home renovations:
 
 
-  \- are selling your home and want to increase its appeal and sale price. We can conduct all of your painting, flooring, repairs, gardening and other trade work to maximise the appeal of your home for sale.
+  \- **Selling your home -** If you are selling your home and want to increase its appeal and sale price, we are here to help. We can conduct all of your painting, flooring, repairs, gardening and other trade work to maximise the appeal of your home for sale.
 
 
-  \- want to renovate any part of your home and add value. We can turn your renovation plans into a reality on time and on budget. We pride ourselves on our quality renovations.
+  \- **Home renovations** - We can turn your renovation plans into a reality on time and on budget. We pride ourselves on our quality renovations. Our focus is to renovate any part of your home and add value.
 
 
   Patrick Leach and Caue XX, owners of Seascape Projects, moved to the Mornington Peninsula with the aim of offering a high quality and personable service from start to finish on every job.
