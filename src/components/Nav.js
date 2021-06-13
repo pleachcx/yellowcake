@@ -96,6 +96,9 @@ export class Navigation extends Component {
                   <NavLink to="/blog/" className="Nav--GroupLink">
                     All Services
                   </NavLink>
+                  <NavLink to="/realestate/" className="Nav--GroupLink">
+                    Preparing Your Home for Sale
+                  </NavLink>
                   {subNav.posts.map((link, index) => (
                     <NavLink
                       to={link.slug}
