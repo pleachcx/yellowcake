@@ -5,28 +5,39 @@ title: Real Estate
 featuredImage: https://ucarecdn.com/26b86164-97d3-4c3c-8321-543047dcbe9d/-/preview/-/enhance/63/
 subtitle: Preparing Your Home for Sale
 section1: >-
-  ## Preparing Your Home for Sale
+## Preparing Your Home for Sale
 
 
-  Presentation pays off when selling your home. We ensure that your home is looking at its absolute best inside and out to maximise your sale return.  
-  From deep cleaning, painting, and flooring to gardening and landscaping; from lighting and general repairs to building new enhancements or configurations, etc. These jobs can be both very time-consuming and stressful but often necessary when selling your home.  
-  Our preparation services enable you to relax knowing that your home will be presented at its best and ready to attract the greatest number of potential buyers when you put your home on the market. 
+Presentation pays off when selling your home. We ensure that your home is looking at its absolute best inside and out to maximise your sale return.  
 
-  #### Our Services Include
+From deep cleaning, painting, and flooring to gardening and landscaping; from lighting and general repairs to building new enhancements or configurations, etc. These jobs can be both very time-consuming and stressful but often necessary when selling your home.  
 
-  - Deep cleaning – A superior home clean not achieved by standard cleaners making your home fresh and ready for sale. Includes sugar soaping walls, cleaning tile grout, shower scum, stain removal, etc.  
-  - Painting interior and exterior - from touch-ups to repainting rooms or whole house.  
-  - Flooring - repolishing floorboards / replacing carpets
-  - Home lighting - creating natural or well-positioned lighting in and around the home
-  - Repairs - walls, floors, doors, windows, etc.
-  - Reviving decks 
-  -Refreshing driveways
-  - Refreshing the entrance to your home
-  - Landscaping and/or gardening
-  - Building new home enhancements/configurations eg. creating WFH (working from home) spaces, room conversions, etc.
+Our preparation services enable you to relax knowing that your home will be presented at its best and ready to attract the greatest number of potential buyers when you put your home on the market. 
+
+#### Our Services Include
+
+- Deep cleaning – A superior home clean not achieved by standard cleaners making your home fresh and ready for sale. Includes sugar soaping walls, cleaning tile grout, shower scum, stain removal, etc. 
+
+- Painting interior and exterior - from touch-ups to repainting rooms or whole house.  
+
+- Flooring - repolishing floorboards / replacing carpets  
+
+- Home lighting - creating natural or well-positioned lighting in and around the home  
+
+- Repairs - walls, floors, doors, windows, etc.
+
+- Reviving decks 
+
+- Refreshing driveways
+
+- Refreshing the entrance to your home
+
+- Landscaping and/or gardening
+
+- Building new home enhancements/configurations eg. creating WFH (working from home) spaces, room conversions, etc.
   
 
-  [Dictumst a ultrices mi](<>) a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
+[Dictumst a ultrices mi](<>) a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
 section2: >-
   ## You can use videos, images and text.
 
