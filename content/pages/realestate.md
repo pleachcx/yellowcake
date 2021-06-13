@@ -8,10 +8,57 @@ section1: >-
   ## Preparing Your Home for Sale
 
 
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+  Presentation pays off when selling your home. We ensure that your home is looking at its absolute best inside and out to maximise your sale return.
 
 
-  [Dictumst a ultrices mi](<>) a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
+  From deep cleaning, painting, and flooring to gardening and landscaping; from lighting and general repairs to building new enhancements or configurations, etc. These jobs can be both very time-consuming and stressful but often necessary when selling your home.
+
+
+  Our preparation services enable you to relax knowing that your home will be presented at its best and ready to attract the greatest number of potential buyers when you put your home on the market.
+
+
+  Our services include:
+
+
+  * Deep cleaning – A superior home clean not achieved by standard cleaners making your home fresh and ready for sale. Includes sugar soaping walls, cleaning tile grout, shower scum, stain removal, etc.
+
+  * Painting interior and exterior - from touch-ups to repainting rooms or whole house.
+
+  * flooring - repolishing floorboards / replacing carpets
+
+  * home lighting - creating natural or well-positioned lighting in and around the home
+
+  * repairs - walls, floors, doors, windows, etc.
+
+  * reviving decks
+
+  * refreshing driveways
+
+  * refreshing the entrance to your home
+
+  * landscaping and/or gardening
+
+  * building new home enhancements/configurations eg. creating WFH (working from home) spaces, room conversions, etc.
+
+  * plus more….
+
+
+  There are often a myriad of preparation jobs inside and outside of the home that need to be professionally completed within a short time frame to generate buyer interest in your home and increase the value of your home.
+
+
+  ##### We can project manage some or all of the preparation jobs – it’s up to you.
+
+
+  ## Free Consultation
+
+
+  We offer a free consultation where we’ll help you identify exactly what preparation jobs will add value to your property and maximise the sale price.
+
+
+  ## Process
+
+
+  We can work together with your real estate agent to complete the agreed preparation jobs before the first open for inspection. Alternatively, we can work directly with you.
 section2: >-
   ## You can use videos, images and text.
 
