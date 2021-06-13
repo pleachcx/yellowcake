@@ -3,7 +3,7 @@ template: ComponentsPage
 slug: Realestate
 title: Realestate
 featuredImage: https://ucarecdn.com/26b86164-97d3-4c3c-8321-543047dcbe9d/-/preview/-/enhance/63/
-subtitle: Seascape Projects on the Mornington Peninsula
+subtitle: Preparing Your Home for Sale
 section1: >-
   ## Preparing Your Home for Sale
 
@@ -87,6 +87,6 @@ gallery:
     image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
     title: Yellow Ice Cream
 meta:
-  description: About Seascape Projects on the Mornington Peninsula
-  title: About
+  description: Preparing Your Home for Sale
+  title: Real Estate
 ---
