@@ -1,7 +1,7 @@
 ---
 template: ComponentsPage
-slug: components
-title: About
+slug: Services
+title: Services
 featuredImage: https://ucarecdn.com/26b86164-97d3-4c3c-8321-543047dcbe9d/-/preview/-/enhance/63/
 subtitle: Seascape Projects on the Mornington Peninsula
 section1: >-
