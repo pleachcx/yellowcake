@@ -5,8 +5,7 @@ title: Real Estate
 featuredImage: https://ucarecdn.com/26b86164-97d3-4c3c-8321-543047dcbe9d/-/preview/-/enhance/63/
 subtitle: Preparing Your Home for Sale
 section1: >-
-
-## Preparing Your Home for Sale
+  ## Preparing Your Home for Sale
 
 
   Presentation pays off when selling your home. We ensure that your home is looking at its absolute best inside and out to maximise your sale return.  
