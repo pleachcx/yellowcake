@@ -5,7 +5,8 @@ title: Real Estate
 featuredImage: https://ucarecdn.com/26b86164-97d3-4c3c-8321-543047dcbe9d/-/preview/-/enhance/63/
 subtitle: Preparing Your Home for Sale
 section1: >-
-  ## Preparing Your Home for Sale
+
+## Preparing Your Home for Sale
 
 
   Presentation pays off when selling your home. We ensure that your home is looking at its absolute best inside and out to maximise your sale return.  
@@ -24,10 +25,17 @@ section1: >-
   - Refreshing the entrance to your home
   - Landscaping and/or gardening
   - Building new home enhancements/configurations eg. creating WFH (working from home) spaces, room conversions, etc.
+  
 
-There are often a myriad of preparation jobs inside and outside of the home that need to be professionally completed within a short time frame to generate buyer interest in your home and increase the value of your home.  
-
+  [Dictumst a ultrices mi](<>) a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
 section2: >-
+  ## You can use videos, images and text.
+
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
+videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
+videoTitle: Also background videos, with poster image & title overlay.
 accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
@@ -51,3 +59,4 @@ meta:
   description: About Seascape Projects on the Mornington Peninsula
   title: About
 ---
+
