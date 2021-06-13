@@ -7,7 +7,7 @@ import Layout from '../components/Layout.js'
 import Gallery from '../components/Gallery'
 
 // Export Template for use in CMS preview
-export const ComponentsPageTemplate = ({
+export const RealEstatePageTemplate = ({
   title,
   subtitle,
   featuredImage,
@@ -30,7 +30,7 @@ export const ComponentsPageTemplate = ({
 
     <section className="section">
       <div className="container">
-        <h2>Our gallery component</h2>
+        <h2>Previous Work</h2>
         <Gallery images={gallery} />
       </div>
     </section>
@@ -41,18 +41,8 @@ export const ComponentsPageTemplate = ({
       </div>
     </section>
 
-    <section className="BackgroundVideo-section section">
-      <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
-        {video && <source src={video} type="video/mp4" />}
-      </BackgroundVideo>
-    </section>
-
-    <section className="section">
-      <div className="container">
-        <Accordion items={accordion} />
-      </div>
-    </section>
-
+   
+    
     <section className="section">
       <div className="container">
         <Popup>
@@ -63,16 +53,16 @@ export const ComponentsPageTemplate = ({
   </main>
 )
 
-const ComponentsPage = ({ data: { page } }) => (
+const RealEstatePage = ({ data: { page } }) => (
   <Layout
     meta={page.frontmatter.meta || false}
     title={page.frontmatter.title || false}
   >
-    <ComponentsPageTemplate {...page} {...page.frontmatter} body={page.html} />
+    <RealEstatePageTemplate {...page} {...page.frontmatter} body={page.html} />
   </Layout>
 )
 
-export default ComponentsPage
+export default RealEstatePage
 
 export const pageQuery = graphql`
   query ComponentsPage($id: String!) {
@@ -87,12 +77,6 @@ export const pageQuery = graphql`
         featuredImage
         section1
         section2
-        video
-        videoPoster
-        videoTitle
-        accordion {
-          title
-          description
         }
       }
     }
