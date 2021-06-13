@@ -27,10 +27,7 @@ section1: >-
 
 There are often a myriad of preparation jobs inside and outside of the home that need to be professionally completed within a short time frame to generate buyer interest in your home and increase the value of your home.  
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
-videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
-videoTitle: Also background videos, with poster image & title overlay.
+
 accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
