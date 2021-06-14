@@ -7,10 +7,6 @@ subtitle: Seascape Projects on the Mornington Peninsula
 section1: >-
   ## About Seascape Projects
 
-
-  <!--StartFragment-->
-
-
   We specialise in creating appealing homes to sell or enjoy.
 
 
@@ -26,7 +22,7 @@ section1: >-
   \- **Home renovations** - We can turn your renovation plans into a reality on time and on budget. We pride ourselves on our quality renovations. Our focus is to renovate any part of your home and add value.
 
 
-  Patrick Leach and Caue XX, owners of Seascape Projects, moved to the Mornington Peninsula with the aim of offering a high quality and personable service from start to finish on every job.
+  Patrick Leach and Caue Bret Batista, owners of Seascape Projects, moved to the Mornington Peninsula with the aim of offering a high quality and personable service from start to finish on every job.
 
 
   Contact us today for a free no obligation consultation.
@@ -34,8 +30,7 @@ section1: >-
 
 
 
-  <!--EndFragment-->
-section2: >-
+ section2: >-
   ## You can use videos, images and text.
 
 

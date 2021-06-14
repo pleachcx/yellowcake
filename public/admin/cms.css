@@ -380,6 +380,17 @@
   }
 }
 
+.footer {
+  padding: 2rem 0;
+  background: var(--lightGrey);
+  font-size: 1.2rem;
+}
+
+.footer a {
+  color: black;
+  text-decoration: none;
+}
+
 /*! modern-normalize | MIT License | https://github.com/sindresorhus/modern-normalize */
 
 /* Document
@@ -923,127 +934,6 @@ blockquote {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-}
-
-.Accordion {
-  position: relative;
-  width: 100%;
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.Accordion img {
-  position: absolute;
-  top: -15rem;
-  right: -7rem;
-  width: 20rem;
-  height: auto;
-}
-
-.Accordion--item {
-  position: relative;
-  padding: 3rem;
-  background: white;
-  margin-bottom: 2rem;
-  border-radius: 1rem;
-  -webkit-box-shadow: 0px 2px 25px 0px rgba(84, 131, 157, 0.2);
-          box-shadow: 0px 2px 25px 0px rgba(84, 131, 157, 0.2);
-  cursor: pointer;
-}
-
-.Accordion--item h2 {
-  cursor: pointer;
-  display: block;
-  margin: 0;
-  font-size: 1.4rem;
-  text-transform: uppercase;
-  letter-spacing: 0.02rem;
-  font-weight: bold;
-  pointer-events: none;
-}
-
-.Accordion--item svg {
-  float: right;
-  -webkit-transition: ease all 0.3s;
-  transition: ease all 0.3s;
-}
-
-.Accordion--item.active svg {
-  -webkit-transform: rotate(-180deg);
-          transform: rotate(-180deg);
-}
-
-.Accordion--item .description {
-  padding-top: 0;
-  opacity: 0;
-  -webkit-transition: ease all 0.3s;
-  transition: ease all 0.3s;
-  max-height: 0;
-}
-
-.Accordion--item.active .description {
-  padding-top: 2rem;
-  opacity: 1;
-  max-height: 50rem;
-}
-
-.BackgroundVideo-section {
-  position: relative;
-  overflow: hidden;
-  height: 40rem;
-}
-.BackgroundVideo {
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-}
-
-.BackgroundVideo video {
-  -o-object-fit: cover;
-     object-fit: cover;
-  height: 100%;
-  width: 100%;
-}
-
-.BackgroundVideo--video {
-  -webkit-transition: all 0.2s ease;
-  transition: all 0.2s ease;
-  opacity: 0;
-}
-.BackgroundVideo--video.playing {
-  opacity: 1;
-}
-
-.BackgroundVideo--videoTitle {
-  position: absolute;
-  top: 50%;
-  left: 0;
-  -webkit-transform: translate(0, -50%);
-          transform: translate(0, -50%);
-  font-size: 4rem;
-  font-weight: bold;
-  width: 100%;
-  text-align: center;
-  color: white;
-  text-shadow: 1px 1px 1px grey;
-}
-
-.Poster--videoTitle {
-  position: absolute;
-  top: 50%;
-  left: 0;
-  -webkit-transform: translate(0, -50%);
-          transform: translate(0, -50%);
-  font-size: 2rem;
-  font-weight: bold;
-  width: 100%;
-  text-align: center;
-  color: white;
-  text-shadow: 1px 1px 1px grey;
 }
 
 .Gallery {
@@ -1787,59 +1677,6 @@ a.pswp__share--download:hover {
 
 .pswp--minimal--dark .pswp__top-bar {
   background: none; }
-
-.Popup-Overlay {
-  overflow: hidden;
-  height: 100vh;
-  width: 100%;
-  z-index: 9999999;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-}
-.Popup-Background {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.7);
-  height: 100%;
-  width: 100%;
-  z-index: 9999999;
-  overflow: hidden;
-}
-
-.Popup-Inner {
-  background: white;
-  width: 80%;
-  max-height: 80%;
-  position: relative;
-  z-index: 99999999;
-  padding: 8rem;
-  overflow: hidden;
-}
-
-.Popup-Close {
-  position: absolute;
-  top: 2rem;
-  right: 2rem;
-}
 
 .Form {
   display: -webkit-box;
