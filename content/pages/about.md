@@ -7,29 +7,11 @@ subtitle: Seascape Projects on the Mornington Peninsula
 section1: >-
   ## About Seascape Projects
 
-  We specialise in creating appealing homes to sell or enjoy.
+
+  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
 
 
-  With 20 years experience in the real estate and building industries, we can help you increase the value of your home.
-
-
-  Seascape Projects is the company to call if you are selling your home or planning home renovations:
-
-
-  \- **Selling your home -** If you are selling your home and want to increase its appeal and sale price, we are here to help. We can conduct all of your painting, flooring, repairs, gardening and other trade work to maximise the appeal of your home for sale.
-
-
-  \- **Home renovations** - We can turn your renovation plans into a reality on time and on budget. We pride ourselves on our quality renovations. Our focus is to renovate any part of your home and add value.
-
-
-  Patrick Leach and Caue Bret Batista, owners of Seascape Projects, moved to the Mornington Peninsula with the aim of offering a high quality and personable service from start to finish on every job.
-
-
-  Contact us today for a free no obligation consultation.
-
-
-
-
+  [Dictumst a ultrices mi](<>) a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
  section2: >-
   ## You can use videos, images and text.
 
