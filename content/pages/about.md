@@ -29,11 +29,10 @@ section1: >-
   ## Distinctiveness
 
 
-  We offer an incredible range of options and additional extras so you can create a truly unique
-
-  property. With thousands of designs, fixtures and finishes to choose from, and almost no limit on
-
-  preferences, your design will fit perfectly around your vision for your ideal home and lifestyle.
+  We offer an incredible range of options and additional extras so you can create a truly unique property. 
+  
+  
+  With thousands of designs, fixtures and finishes to choose from, and almost no limit on preferences, your design will fit perfectly around your vision for your ideal home and lifestyle.
 section2: >-
   ## You'll love our simple process
 
@@ -42,18 +41,7 @@ section2: >-
 
 
   [Contact us for a free consultation](https://seascapeprojects.com.au/contact)
-video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
-videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
-videoTitle: Also background videos, with poster image & title overlay.
-accordion:
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
+
 gallery:
   - alt: mud room image
     image: https://ucarecdn.com/49867632-7c13-4606-a6bc-c4a003752eea/-/preview/-/enhance/50/
@@ -64,9 +52,7 @@ gallery:
   - alt: Internal Prepared
     image: https://ucarecdn.com/705ef785-02d9-4948-b7c8-d36e1f913543/
     title: Internal Preparation
-  - image: https://ucarecdn.com/88107c95-4a1c-4912-9e24-e107f7c4435f/
-    alt: Galley Kitchen
-    title: Galley Kitchen
+
 meta:
   description: Preparing Your Home for Sale
   title: Real Estate
