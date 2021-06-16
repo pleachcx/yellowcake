@@ -14,15 +14,34 @@ section1: >-
   With 20 years experience in the real estate and building industries, we can help you increase the value of your home.
 
 
-  Seascape Projects is the company to call if you are selling your home or planning home renovations:
-
-
   Patrick Leach and Caue Bret Batista, owners of Seascape Projects, moved to the Mornington Peninsula with the aim of offering a high quality and personable service from start to finish on every job
+
+
+  ## All About High Standards
+
+
+  Every aspect of our work will get our attention, every inch will be crafted to our precise quality.
+
+
+  Our commitment to quality is such that only the best brands are used when completing the work on you home.
+
+
+  ## Distinctiveness
+
+
+  We offer an incredible range of options and additional extras so you can create a truly unique
+
+  property. With thousands of designs, fixtures and finishes to choose from, and almost no limit on
+
+  preferences, your design will fit perfectly around your vision for your ideal home and lifestyle.
 section2: >-
-  ## Free Consultation
+  ## You'll love our simple process
 
 
-  We offer a free consultation where we’ll help you identify exactly what preparation jobs will add value to your property and maximise the sale price.
+  We'll talk to you about your preferences, needs and ideas before we start construction.
+
+
+  [Contact us for a free consultation](https://seascapeprojects.com.au/contact)
 video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
 videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
 videoTitle: Also background videos, with poster image & title overlay.
