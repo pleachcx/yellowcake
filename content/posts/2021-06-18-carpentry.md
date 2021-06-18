@@ -6,6 +6,8 @@ date: 2021-06-18
 featuredImage: https://ucarecdn.com/48ef658d-89e9-4c21-8690-cba517e34336/
 excerpt: We offer full suite of carpentry services including Cladding, Framing,
   Doors/Windows, Decks, Building Repairs and more.
+categories:
+  - category: Home Renovations
 meta:
   title: carpentry
   description: Carpentry on the Mornington Peninsula
