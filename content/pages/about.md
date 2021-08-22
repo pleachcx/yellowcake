@@ -3,79 +3,45 @@ template: ComponentsPage
 slug: About
 title: About
 featuredImage: https://ucarecdn.com/26b86164-97d3-4c3c-8321-543047dcbe9d/-/preview/-/enhance/63/
-subtitle: Preparing Your Home for Sale
+subtitle: About Us
 section1: >-
-  ## Preparing Your Home for Sale
+  ## About Us
 
 
-  Presentation pays off when selling your home. We ensure that your home is looking at its absolute best inside and out to maximise your sale return.
+  We specialise in creating appealing homes to sell or enjoy.
 
 
-  From deep cleaning, painting, and flooring to gardening and landscaping; from lighting and general repairs to building new enhancements or configurations, etc. These jobs can be both very time-consuming and stressful but often necessary when selling your home.
+  With 20 years experience in the real estate and building industries, we can help you increase the value of your home.
 
 
-  Our preparation services enable you to relax knowing that your home will be presented at its best and ready to attract the greatest number of potential buyers when you put your home on the market.
+  Patrick Leach and Caue Bret Batista, owners of Seascape Projects, moved to the Mornington Peninsula with the aim of offering a high quality and personable service from start to finish on every job
 
 
-  Our services include:
+  ## All About High Standards
 
 
-  * Deep cleaning – A superior home clean not achieved by standard cleaners making your home fresh and ready for sale. Includes sugar soaping walls, cleaning tile grout, shower scum, stain removal, etc.
-
-  * Painting interior and exterior - from touch-ups to repainting rooms or whole house.
-
-  * flooring - repolishing floorboards / replacing carpets
-
-  * home lighting - creating natural or well-positioned lighting in and around the home
-
-  * repairs - walls, floors, doors, windows, etc.
-
-  * reviving decks
-
-  * refreshing driveways
-
-  * refreshing the entrance to your home
-
-  * landscaping and/or gardening
-
-  * building new home enhancements/configurations eg. creating WFH (working from home) spaces, room conversions, etc.
-
-  * plus more….
+  Every aspect of our work will get our attention, every inch will be crafted to our precise quality.
 
 
-  There are often a myriad of preparation jobs inside and outside of the home that need to be professionally completed within a short time frame to generate buyer interest in your home and increase the value of your home.
+  Our commitment to quality is such that only the best brands are used when completing the work on you home.
 
 
-  ##### We can project manage some or all of the preparation jobs – it’s up to you.
+  ## Distinctiveness
 
 
-  ## Free Consultation
-
-
-  We offer a free consultation where we’ll help you identify exactly what preparation jobs will add value to your property and maximise the sale price.
-
-
-  ## Process
-
-
-  We can work together with your real estate agent to complete the agreed preparation jobs before the first open for inspection. Alternatively, we can work directly with you.
+  We offer an incredible range of options and additional extras so you can create a truly unique property. 
+  
+  
+  With thousands of designs, fixtures and finishes to choose from, and almost no limit on preferences, your design will fit perfectly around your vision for your ideal home and lifestyle.
 section2: >-
-  ## You can use videos, images and text.
+  ## You'll love our simple process
 
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
-videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
-videoTitle: Also background videos, with poster image & title overlay.
-accordion:
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
+  We'll talk to you about your preferences, needs and ideas before we start construction.
+
+
+  [Contact us for a free consultation](https://seascapeprojects.com.au/contact)
+
 gallery:
   - alt: mud room image
     image: https://ucarecdn.com/49867632-7c13-4606-a6bc-c4a003752eea/-/preview/-/enhance/50/
@@ -86,9 +52,7 @@ gallery:
   - alt: Internal Prepared
     image: https://ucarecdn.com/705ef785-02d9-4948-b7c8-d36e1f913543/
     title: Internal Preparation
-  - image: https://ucarecdn.com/88107c95-4a1c-4912-9e24-e107f7c4435f/
-    alt: Galley Kitchen
-    title: Galley Kitchen
+
 meta:
   description: Preparing Your Home for Sale
   title: Real Estate

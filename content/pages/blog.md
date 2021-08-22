@@ -1,10 +1,10 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+title: Home Renovations
+featuredImage: https://ucarecdn.com/94b1d822-a363-4938-bcc4-823a2b589c83/-/preview/-/enhance/29/
+subtitle: Providing a vast range of services on the Mornington Peninsula
 meta:
-  description: This is a meta description.
-  title: Blog Page
+  description: "Quality and Craftsmanship "
+  title: Home Renovation
 ---

@@ -46,13 +46,10 @@ section1: >-
   There are often a myriad of preparation jobs inside and outside of the home that need to be professionally completed within a short time frame to generate buyer interest in your home and increase the value of your home.
 
 
-  ##### We can project manage some or all of the preparation jobs – it’s up to you.
+  We can project manage some or all of the preparation jobs – it’s up to you.
 
 
-  ## Free Consultation
-
-
-  We offer a free consultation where we’ll help you identify exactly what preparation jobs will add value to your property and maximise the sale price.
+  
 
 
   ## Process
@@ -61,7 +58,13 @@ section1: >-
   We can work together with your real estate agent to complete the agreed preparation jobs before the first open for inspection. Alternatively, we can work directly with you.
 section2: >-
   
+  ## Free Consultation
 
+
+  We offer a free consultation where we’ll help you identify exactly what preparation jobs will add value to your property and maximise the sale price.
+
+
+  [Contact us Now](https://seascapeprojects.com.au/contact)
 
 
 gallery:
@@ -74,9 +77,7 @@ gallery:
   - alt: Internal Prepared
     image: https://ucarecdn.com/705ef785-02d9-4948-b7c8-d36e1f913543/
     title: Internal Preparation
-  - image: https://ucarecdn.com/88107c95-4a1c-4912-9e24-e107f7c4435f/
-    alt: Galley Kitchen
-    title: Galley Kitchen
+
 meta:
   description: Preparing Your Home for Sale
   title: Real Estate
