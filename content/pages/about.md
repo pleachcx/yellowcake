@@ -8,7 +8,7 @@ section1: >-
   ## About Us
 
 
-  We specialise in creating appealing homes to sell or enjoy.
+  #We specialise in creating appealing homes to sell or enjoy.
 
 
   With 20 years experience in the real estate and building industries, we can help you increase the value of your home.
