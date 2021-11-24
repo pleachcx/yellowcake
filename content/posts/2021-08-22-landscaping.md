@@ -8,7 +8,7 @@ excerpt: We provide quality landscape design and constructions.
 categories:
   - category: Home Renovations
 ---
-Our team can assist with landscape design and construction for  both large and small jobs.
+Our team has experience with landscape design and construction for  both large and small jobs.
 
 * Construction of decks, planter boxes, and landscape features
 * 12v lighting and watering
